@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>attachment_32.png</file>
+        <file>stylesheet.qss</file>
+    </qresource>
+</RCC>
